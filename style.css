@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.bor{
+    border: solid 1px;
+    width: 800px;
+    display: flex;
+    border-radius: 5px;
+
+
+}
+
+
+.huhu{
+    display: flex;
+    align-items: center;
+
+}
+
+.hjb{
+    color: white;
+}
+
+input{
+    border: none;
+    outline: none;
+}
+
+.lola{
+    display: flex;
+    justify-content: space-between;    
+}
+
+.olamide{
+    padding:100px 0px 0px ;
+    color: white;
+    text-align: center;
+}
+
+.olamide1{
+    padding:50px 220px 50px 350px;
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(252, 251, 251, 0.3)), url("/ines_maria_wingsofvienna.jpg");
+    height: 140vh;
+
+
+}
